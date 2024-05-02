@@ -1,0 +1,108 @@
+/* *{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.Sectionone{
+ 
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 600px;
+}
+.Sectionone  .container{
+ 
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.Sectionone  .container .cards{
+width: 70%;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+
+}
+.cards .card{
+
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 15px;
+}
+.cards .card img{
+width: 100%;
+transform: scale3d(1.2);
+}
+.cards .card h3{
+    font-weight: 500;
+    font-size: 18px;
+    transition: 1s;
+}
+.cards .card h3:hover{
+    cursor: pointer;
+    transition: 1s;
+    color: rgb(241, 104, 33) ;
+}
+.card .icons{
+
+width: 35%;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.card p{
+text-align: center;
+ color:rgb(128, 128, 128) ; 
+ font-size: 13px;
+ font-weight: 400;
+}
+.btns{
+
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btns .btnone{
+width: 45%;
+font-size: 12px;
+font-weight: 900;
+color: white;
+background-color: black;
+
+padding: 10px;
+transition: 0.5s;
+}
+.btnone:hover{
+    background-color: white;
+    cursor: pointer;
+    transition: 0.5s;
+    color:black;
+
+}
+
+.btns .btntwo{
+    width: 45%;
+    font-size: 12px;
+    font-weight: 700;
+    color: black;
+    background-color: white;
+      padding: 10px;
+      transition: 0.5s;
+}
+.btntwo:hover{
+    background-color: black;
+    cursor: pointer;
+    transition: 0.5s;
+    color: white;
+
+} */
